@@ -13,8 +13,6 @@ An end-to-end online movie ticket booking platform built using modern web techno
 | Backend      | [Node.js](https://nodejs.org/), [Express](https://expressjs.com/) |
 | Database     | [MongoDB](https://www.mongodb.com/)   |
 | Authentication | JSON Web Tokens (JWT) |
-| Payment Integration | Razorpay / Stripe (Optional) |
-| Hosting      | Vercel (Frontend) / Render / Railway / Heroku (Backend) / MongoDB Atlas (Database) |
 
 ---
 
@@ -23,10 +21,8 @@ An end-to-end online movie ticket booking platform built using modern web techno
 - 🎥 **Browse Movies**: View currently available movies with posters, ratings, and descriptions.
 - 🕒 **Showtimes & Venues**: Check available showtimes, screen types, and seat layouts.
 - 🪑 **Seat Booking**: Real-time seat availability and booking with dynamic pricing.
-- 💳 **Payment Gateway Integration**: Secure online payment.
 - 🔐 **User Authentication**: Signup, login, JWT-based session handling.
-- 📜 **Booking History**: View past and upcoming ticket bookings.
-- 🏢 **Admin Panel**: Add movies, manage venues, schedules, pricing, and bookings.
+
 
 ---
 
@@ -121,13 +117,6 @@ Visit `http://localhost:3000` to view the app.
 
 > Admin-specific endpoints are protected via middleware and JWT.
 
----
-
-## 📸 Screenshots
-
-_Add screenshots or demo GIFs here if available_
-
----
 
 ## 📌 Future Improvements
 
@@ -139,21 +128,9 @@ _Add screenshots or demo GIFs here if available_
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to open a pull request or issue.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)  
-Email: youremail@example.com
