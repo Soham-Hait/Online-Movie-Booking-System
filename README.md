@@ -20,16 +20,16 @@ A modern, full-featured online movie ticket booking platform built with **Next.j
 
 ## 📸 Screenshots
 
-![Screenshot 1](public/Images/Screenshot%202025-07-05%20192244.png)
+![Screenshot 1](public/landing.jpeg)
 *Homepage or landing screen of the application.*
 
-![Screenshot 2](public/Images/Screenshot%202025-07-05%20192436.png)
+![Screenshot 2](public/hallbook.jpeg)
 *Movie details or showtimes selection screen.*
 
-![Screenshot 3](public/Images/Screenshot%202025-07-05%20192547.png)
+![Screenshot 3](public/seats.jpeg)
 *Seat selection or booking interface.*
 
-![Screenshot 4](public/Images/Screenshot%202025-07-05%20192638.png)
+![Screenshot 4](public/ticket.jpeg)
 *Booking confirmation or ticket summary screen.*
 
 ---
