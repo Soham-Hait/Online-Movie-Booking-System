@@ -1,4 +1,4 @@
-# 🎬 Online Movie Booking System
+# 🎬 CineTix- An Online Movie Booking System
 
 A modern, full-featured online movie ticket booking platform built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Node.js**, and **MongoDB**. This application enables users to browse movies, view showtimes, book seats, apply offers, make secure payments, and manage their bookings—all in a seamless, user-friendly interface.
 
