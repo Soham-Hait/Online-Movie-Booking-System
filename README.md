@@ -42,7 +42,7 @@ A modern, full-featured online movie ticket booking platform built with **Next.j
 | Backend        | [Node.js](https://nodejs.org/), [Express](https://expressjs.com/)          |
 | Database       | [MongoDB](https://www.mongodb.com/)                                       |
 | Authentication | JSON Web Tokens (JWT), NextAuth                                            |
-| Payments       | Razorpay, Stripe (extensible)                                              |
+| Payments       | Razorpay, Stripe (To Be Added)                                              |
 
 ---
 
@@ -52,10 +52,10 @@ A modern, full-featured online movie ticket booking platform built with **Next.j
 - 🕒 **Showtimes & Cinemas**: View available showtimes, cinema locations, and screen types.
 - 🪑 **Seat Selection**: Interactive, real-time seat selection with dynamic pricing.
 - 🔐 **User Authentication**: Secure registration, login, and JWT-based session management.
-- 🧾 **Booking Management**: View, download, and manage your bookings from a personalized dashboard.
+- 🧾 **Booking Management**: View, download, and manage your bookings from a personalised dashboard.
 - 💳 **Secure Payments**: Multiple payment methods (Card, UPI, Wallet, Net Banking) with real-time status.
-- 🎟️ **Offers & Coupons**: Apply special offers and discount coupons at checkout.
-- 🏷️ **Promotions**: Access exclusive deals (e.g., student, couple, first-time user, army discounts).
+- 🎟️ **Offers & Coupons**: (Planned) Apply special offers and discount coupons at checkout.
+- 🏷️ **Promotions**: (Planned) Access exclusive deals (e.g., student, couple, first-time user, army discounts).
 - 📱 **Responsive UI**: Fully responsive and mobile-friendly design.
 - 🛡️ **Admin Controls**: (If enabled) Admin endpoints for managing movies, showtimes, offers, and users.
 - 📊 **Analytics & Logging**: (Optional) Track user activity, bookings, and payment status.
@@ -142,7 +142,7 @@ We are committed to continuously improving the Online Movie Booking System. Plan
 
 - 📧 **Email & SMS Booking Confirmations**: Automated notifications for bookings, reminders, and cancellations.
 - 🔍 **Advanced Search & Filter**: Enhanced search by genre, language, rating, and more.
-- 🌐 **Multi-language Support**: Localized UI for a global audience.
+- 🌐 **Multi-language Support**: Localised UI for a global audience.
 - ⭐ **User Reviews and Ratings**: Share and read feedback on movies and cinemas.
 - 🎁 **Loyalty Points & Rewards**: Earn points for bookings and redeem for discounts.
 - 🛡️ **Enhanced Admin Dashboard**: Advanced analytics, reporting, and management tools.
